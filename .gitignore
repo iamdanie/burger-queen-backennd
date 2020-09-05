@@ -1,0 +1,8 @@
+.idea
+build
+coverage
+docs
+node_modules
+config/auth.json
+yarn-error.log
+logfile.log

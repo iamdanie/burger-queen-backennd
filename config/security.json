@@ -1,0 +1,7 @@
+{
+    "JWT_SECRET": "@ichab9a2reco5-tlH$w",
+    "JWT_EXPIRATION": 7200,
+    "JWT_ALGORITHM": "HS512",
+    "ENCRYPTION_KEY": "f45uriqlS-Ya8rL?E5rOBrlc4**uBA7&",
+    "ENCRYPTION_ALGORITHM": "aes-256-cbc"
+}
